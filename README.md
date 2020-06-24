@@ -73,3 +73,5 @@
             博弈论P2  
             《Social Welfare Maximization Auction in Edge Computing Resource Allocation for Mobile Blockchain》粗读  
             机器学习P23 三层神经网络可以模拟所有决策面  
+2020.6.24   凸优化P23  
+            《Secure Edge Computing in IoT Systems: Review and Case Studies》  

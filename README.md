@@ -74,4 +74,7 @@
             《Social Welfare Maximization Auction in Edge Computing Resource Allocation for Mobile Blockchain》粗读  
             机器学习P23 三层神经网络可以模拟所有决策面  
 2020.6.24   凸优化P23  
-            《Secure Edge Computing in IoT Systems: Review and Case Studies》  
+            《Secure Edge Computing in IoT Systems: Review and Case Studies》阅读  
+2020.6.25   凸优化P24  
+            《Secure Edge Computing in IoT Systems: Review and Case Studies》总结    
+            机器学习P24 第50分钟

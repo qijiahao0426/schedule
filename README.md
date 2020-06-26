@@ -78,3 +78,7 @@
 2020.6.25   凸优化P24  
             《Secure Edge Computing in IoT Systems: Review and Case Studies》总结    
             机器学习P24 第50分钟
+2020.6.26   凸优化P25    
+            听力训练  
+            《F-Cooper: Feature based Cooperative Perception for Autonomous Vehicle Edge Computing System Using 3D Point Clouds》摘要和结论  
+            机器学习P24  

@@ -82,3 +82,6 @@
             听力训练  
             《F-Cooper: Feature based Cooperative Perception for Autonomous Vehicle Edge Computing System Using 3D Point Clouds》摘要和结论  
             机器学习P24  
+2020.6.27   博弈论P3  
+            凸优化P26 
+            听力训练       
